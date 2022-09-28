@@ -4,14 +4,18 @@
 Thing we do with data:
 
 Gather/collect data $\rightarrow$ Organize and Summarize $\rightarrow$ Analyze $\rightarrow$ Interpret
+
 #
+
 Definitions:
 
- |Population|Sample|
+|Population|Sample|
 |:---:|:---:|
 |A group of individual, object, measurement that we want to study|A representative subset of a population|
 |Example:   The population of **ALL** De Anza College students enrolled in a recent quarter|Example:  A sample of De Anza college students, such as 200 randomly selected students|
+
 #
+
 **Variable: the *description in words* of the characteristuc of interst**
 - Example of Variable: "the age of a De Anza College student"
 
@@ -21,9 +25,13 @@ Definitions:
 The variable is a sentence explaining the question you are asking in order to obtain information,
 
 The data are he information obtained as answers to the question.
+
 #
+
 After the data is collected, we use the data to calculate number that summarizes and describe the characteristic for the population or sample. This number is called a parameter or a statistic.
+
 #
+
 |Parameter|Statistic|
 |:---:|:---:|
 |A quantity that characterize some aspect of a **population**|A quantity that characterize some aspect of a **sample**|
@@ -31,11 +39,13 @@ After the data is collected, we use the data to calculate number that summarizes
 |**PROPORTION**: 39% of **all** De Anza College students were over age 25|**PROPORTION**: 41% of a random **sample** of 200 students were over age 25| 
 **AVERAGE**: The average age of **all** De Anza College students was 27.1 years|**AVERAGE**: The average age of a ransom **sample** of 200 De Anza College students was 28.3 years|
 **MEDIAN**: Half of **all** De Anza College students were 22 years old or younger| **MEDIAN**: In a **sample** of 200 De Anza College, 50% of the students were 22 years old or younger|
+
 #
+
 Does a sample statistic always have the same numerical value as the population parameter? Why or why not?
   
     No, They use different data
-#
+
 Are sample statistics euqal for all samples taken from the sample population? Why or why not?
 
     No, different sample uses different data
