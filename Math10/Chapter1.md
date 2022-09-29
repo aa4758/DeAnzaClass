@@ -176,3 +176,136 @@ e. Are the values reported in the newspaper statistics or parameters? Exmplain.
 
     Statistic, because they are associated with a sample
 ____
+## **Chapter 1: Types of Variables and Data; Types of Statistical Studies**
+
+## **Example 4:**
+
+A weight loss clinic is studying the exercise habits of its clients.
+- A survey of **all** client records shows that **64% of all** clients exercise regularly.
+- A survey of a random **sample** of 100 clients who exercise regularly shows that of those clients in the sample, the average amount of time that clients exercise each week is 2.5 hours, and that they exercise on average 4 days each week.
+
+a. For each variable listed below, indicate if it is qualitative, quantitative discrete, or quantitative continuous?
+#
+Whether a client exercise regularly:
+
+    Qualitative
+
+The amount of **time** a client exercise each week:
+
+    Quantitative continuous
+
+The number of **days** a client exercise each week:
+
+    Quantitative discrete
+
+b. The number 64% above is a:
+
+    Parameter
+
+c. The numbers 2.5 and 4 above are:
+
+    statistic
+
+d. A client responds that she exercises 3 days a week for 2.4 hours total; the numbres 3 and 2.4 are
+
+    data
+___
+## **Statistic Methods**
+
+Descriptive statistics
+- Presenting data in ways that easily communicate our message
+
+Inferential statistics 
+- Applying analysis technique to data to describe new conclusion
+___
+## **Types of Statistical Studies:**
+
+### A. Census vs Sampling
+- Census: 
+  - A study that includes **all** of the individual in a population
+
+- Sampling: 
+  - A study that includes a **subset** of population
+
+### B. Observational Study vs Experiment
+- Observational Study:
+  - Observe and report
+
+- Experiment:
+  - Controlled study with a **treatment group** and a **controlled group**. 
+  - Treatment group gets the real medication and controlled group gets a **placebo**.
+___
+## **Chapter 1: Types of Statistical Studies / Critical Evaluation**
+
+### **Vocabulary for Experiments:** 
+    Treatment   Placebo    Response    Control Group    Experimental Unit   Explanatory Variable    Response Variable   Blinding    Double Blind
+#
+### **Example 5:** 
+#### **An example of an experiment to test a new drug**
+- A study is done to test a new drug that is supposed to relieve pain.
+- The patients enrolled in the study are randomly divided into two groups.
+- One group is given the new drug, called the *treatment group*.
+- The other group is called the *control group* and is given the *placebo* instead of the treatment.
+- The *response* of both groups is measured to determine if the drug is more effective at relieving pain than not receiving the drug.
+- The study is *double blind* because neither the patient nor the doctor knows who is receiving the new drug and who is receiving the placebo.
+- If a patient develops problems, the doctor works with the study administrator who knows who is receiving the drug and who is receiving the placebo.
+- The doctor, the study administrator, and a statistician are part of a team of people who evaluate the effectiveness of the drug based on the results of the study.
+
+How this relates to the real world: As patients, we would not want to use a drug or a medical device unless it has been shown to be safe and effective. In the Silicon Valley area, there are many biotech companies developing drugs and medical devices. They need to conduct studies of the safety and effectiveness of these drugs or devices. UC Santa Cruz Extension haas a professional "clinical trials" certification program. People enrolling in this program are expected to already have college degrees in related fields and in this program, they study topic such as how the law applies to medical studies, the ethics of medical studies, statistics, design of experiments and other topics.
+___
+### **Critical Evaluation of Statistical Studies and Results**
+#
+### **It is Very Important to Think Critically about the Valivity and Results of Statistical Studies rather than Blindly Believing the Results of all Studies.**
+#
+#### **Common Problems in Statistics to beware of:**
+- Problems with Samples:
+  - A sample should be **representative** of the populaltion.
+  - A sample that is not represenatative of the population is called "biased".
+  - Non-response or refusal of subject to partivipate
+  - Self-Selected Samples might be biased
+  - Sample Size issues
+- Collecting data or asking questions in a way that influences the response
+- Causality: A relationship between two variables does not necessarily imply that one **cause** the other 
+  - THey may both be effected by some other variable.
+- Self-Funded or Self-Interest Studies
+- Misleading Use of Data: improperly displayed graphs, incomplete data, lack of context, not enough information given to inderstand the data
+- Confounding: when the effects of multiple factors on a response can not be separated, it becomes difficult or impossible to draw valid conclusions about the effect of each factor.
+___
+## **Example 6:**
+**Study 1:** Employees of a company are randomly divided into two groups. Group A gets classroom training from an instructor who is available to help and answer question; Group B gets training via online software with an online discussion board available to get help and answers to questions.
+
+**Study 2:** Researchers are studying whether an early retirement age increases the rate of memory problems in senior citizens. A survey of retired senior citizens showed that those who retired earlier tended to have a higher rate of memory problems after retirement that those who retired at an older age. 
+
+**Study 3:** 300 randomly selected individuals are asked if they had been on a diet in the last 8 weeks and how much their weight has changed over the last 8 weeks. Weight changes for dieters and non-dieters are compared. 
+
+**Study 4:** 100 individuals are put on a low-fat diet, 100 on a low carb diet and 100 eat their normal diet. Their weight change over an 8-week period is recorded.
+#
+a. For each of the above, what types of study is it?
+
+    1: Experimental
+    2: Observational
+    3: Observational
+    4: Experimental
+
+b. What problem can you see in Study 2?
+
+    Self reporting, no validation
+
+c. Which weight loss study (3 or 4) do you think would give the best information about the effect of diet on weight loss? Why?
+
+    Study 4, this was an experiment
+___
+## Example 7:
+
+A large city is proposing a parcel tax to support education. Each property owner would be assessed a tax of $100 per property per year. The parcel tax will be voted on by voters in the next election. It will pass ot 2/3 of the voters vote in favor of the tax.
+
+
+1. A group of parents and teachers supporting the parcel tax randomly select and call residents in the city. They identify themselves as members of the Parent Teachers Association for the school system and ask the person who answers the telephone call if they support the parcel tax.
+
+2. A TV news station in the city conducts a "Facebook" survey. Viewers are asked whether they favor or oppose the tax and are given instructions to visit the TV stations Facebook page to respond about their opinion. The poll is publicized, and responses are solicited by anouncements on the TV station's evening newsprograms.
+
+3. A professional polling organization conducts a survey by randomly calling selected residents in the city. If the resident is a registered voter, he or she is asked his/her their opinion about the proposed parcel tax. They are asked whether they favor the tax, oppose the tax, or have no opinion. These three choices are presented to the individual in random order, so that not all respondents hear the choices in the same order. 
+#
+a. Which survey do you think would produces the most accurate prediction of the election results?
+
+b. For each of the order two surveys, what problems do you think there might be with the information obtained? Explain your reasoning for your answers to these questions.
