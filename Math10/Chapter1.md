@@ -308,4 +308,6 @@ A large city is proposing a parcel tax to support education. Each property owner
 #
 a. Which survey do you think would produces the most accurate prediction of the election results?
 
+    Study 3
+
 b. For each of the order two surveys, what problems do you think there might be with the information obtained? Explain your reasoning for your answers to these questions.
