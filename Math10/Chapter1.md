@@ -311,3 +311,65 @@ a. Which survey do you think would produces the most accurate prediction of the 
     Study 3
 
 b. For each of the order two surveys, what problems do you think there might be with the information obtained? Explain your reasoning for your answers to these questions.
+____
+## Chapter 1: Types of Samples
+A sample is a part or a subset of a population
+
+A sample should be representative of the population
+
+A sample that is not representative of the population is called "biased".
+
+#### **Vocabulary and Concepts:**
+**Sampling Error:** 
+Random error obtained by using part of the population to represent the whole population
+
+**Non-Sampling Error:** 
+Non-random error: improper data collection recording or sampling techniques, bias, 
+
+**Random Sample:** Every person has equal chance of being included in the sample
+#
+#### **Sampling Methods:**
+- **simple random sample**
+  - Each individual in the population has an equally likely chance to get selected
+- **systemic sample**
+  - Select one individual randomly, select every n$^{th}$ individual afterward.
+- **stratified sample**
+  - Divide population units groups, select a random representative subset from each group
+- **cluster sample**
+  - Divide population units groups, select a random set of groups, choose every individual in each group.
+- **convenience sample**
+  - Choose individual that all readily available
+____
+## **Example 8:**
+Determine the type of sampling method used:
+#
+a. To form a recreational soccer team, a soccer coach randomly selects 6 players from a group of boys aged 8 to 10, 7 players from a group of oys ages 11 to 12, and 3 players from a group of boys age 13 to 14.
+
+    Stratified sample
+
+b. For a survey of human resource (HR) personnel at high tech companies, a pollster interviews all HR personnel in each of 5 randomly selected high-tech companies.
+
+    Cluster sample
+
+c. A medical researcher for a hospital interviews every third cancer patient from a list of cancer patients at that local hospital. 
+
+    Sysyematic sample
+
+d. A high school counselor uses a computer to generate 50 random numbers and then selects students whose names correspond to the numbers.
+
+    Simple sample
+
+e. A student interviews classmates in his algebra class to determine how many pairs of jeans a students ows, on average. 
+
+    Convenience sample
+
+f. In a study to learn what types of after school childcare and used in their district, a school district administrator randomly selected 6 classes at each school and surveys all parents with children in the selected classes.
+
+    Cluster sample
+
+
+
+
+
+
+
