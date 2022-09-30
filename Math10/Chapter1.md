@@ -343,7 +343,7 @@ ____
 ## **Example 8:**
 Determine the type of sampling method used:
 #
-a. To form a recreational soccer team, a soccer coach randomly selects 6 players from a group of boys aged 8 to 10, 7 players from a group of oys ages 11 to 12, and 3 players from a group of boys age 13 to 14.
+a. To form a recreational soccer team, a soccer coach randomly selects 6 players from a group of boys aged 8 to 10, 7 players from a group of boys ages 11 to 12, and 3 players from a group of boys age 13 to 14.
 
     Stratified sample
 
@@ -359,7 +359,7 @@ d. A high school counselor uses a computer to generate 50 random numbers and the
 
     Simple sample
 
-e. A student interviews classmates in his algebra class to determine how many pairs of jeans a students ows, on average. 
+e. A student interviews classmates in his algebra class to determine how many pairs of jeans a students owns, on average. 
 
     Convenience sample
 
