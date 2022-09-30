@@ -366,6 +366,86 @@ e. A student interviews classmates in his algebra class to determine how many pa
 f. In a study to learn what types of after school childcare and used in their district, a school district administrator randomly selected 6 classes at each school and surveys all parents with children in the selected classes.
 
     Cluster sample
+___
+## **Chapter 1: Numerical and Graphical Summaries of Qualitative Data**
+#
+## **Example 9**: 
+The Mars Candy company used to post the distribution of colors of their candies on their website. This example is based on tje distribution of colors for milk chocolate m&m candies that appeared on their site.
+
+- Suppose that a sample of 500 m&m's was categorized by color.
+- The variable is "the color of one m&m candy"
+- Since the data are colors, the data are qualitative.
+- A list of the data might read "red, red, brown, blue, yellow, blue, orange, green, red, . . . , green, brown"
+  
+To organize qualitative data, we can count the number of in each category (ans use a table to display counts and/or percents, and we can use bar or pie charts to display the data graphically.
+
+| m&m candies | Number of each color | Percent |
+|:---:|:---:|:---:|
+| Blue | 120 | 24% |
+| Orange | 100 | 20% |
+| Green | 80 | 16% |
+| Yellow | 70 | 14% |
+| Red | 65 | 13% |
+| Brown | 65 | 13% |
+| Total | 500 Candies | 100% |
+
+It is usually helpful to create several types of graphs and examine them to choose those that best display the information for the situation being analyzed.
+
+Chapter 1 in the textbook has examples of graphical displays of qualitative data and discusses some of the pros and cons of the various types of graphs, as well as how to organize data to best display the information.
+____
+## **Chapter 1: Numerical Summaries of Quantitative Data: Frequency Distributions**
+
+**Quantitative (numerical) data can be summarized in a frequency distribution table.**
+
+**The data may be presented individually (ungrouped) or grouped into intervals.**
+- A frequency distribution counts the number of data items that fall into each interval.
+  - **Frequency = count = number of data values that lie in the interval**
+- A relative frequency distribution shows the proportion (fraction or percent) of data items in each interval.
+  - **Relative Frequency = proportion of data values that lie in the interval = $\frac{Frequency}{Number of Observations}$**
+- **Cumulative Relative Frequency = sum of relative frequencies for intervals up to and including current interval**
+___
+## **Example 10: Individual Data Values**
+
+Plants are being studied in a lab experiment. For a sample of 16 plants, the number of flowers on a plant are 
+
+    2, 5, 3, 1, 2, 4, 1, 2, 3, 1, 1, 2, 7, 4, 2, 3
+
+| X = Number of Flowers | Frequency | Relative Frequency | Cumulative Relative Frequency |
+|:---:|:---:|:---:|:---:|
+| 1 | 4 | $\frac{4}{16} = 0.25$ | $0.25$ |
+| 2 | 5 | $\frac{5}{16} = 0.3125$ | $0.25 + 0.3125 = 0.5625$ |
+| 3 | 3 | $\frac{3}{16} = 0.1875$ | $0.5625 + 0.1875 = 0.75$ |
+| 4 | 2 | $\frac{2}{16} = 0.125$ | $0.75 + 0.125 = 0.875$ |
+| 5 | 1 | $\frac{1}{16} = 0.0625$ | $0.875 + 0.0625 = 0.9375$
+| 6 | 0 | $\frac{0}{16} = 0$ | $0.9375 + 0 = 0.9375$ |
+| 7 | 1 | $\frac{1}{16} = 0.0625$ | $0.9375 + 0.0625 = 1.000 |$
+| sum | 16 | $\frac{16}{16} = 1.00$ | $1.000$ |
+#
+a. What percent of plants had exactly 3 flowers?
+
+    Relative frequency: 0.1875
+    Percent: 0.1875 * 100 = 18.75%
+
+b. What percent of plants had at most 3 plowers?
+
+    data value = 3
+    Cumulative relative frequency(x = 3): 0.75
+    Percent: 75%
+
+c. What percent of plants had more than 3 flowers?
+
+    data value > 3
+    Relative frequency: 0.125 + 0.0625 + 0 + 0.0625 = 0.250
+    Relative frequency(2): 1 - 0.75(CRF(x = 3)) = 0.25
+    Percent: 75%
+
+d. What percent of plants had at least 5 flowers?
+
+    data value >= 5
+    Relative frequency: 0.0625 + 0 + 0.0625 = 0.125
+    Percent: 0.125 * 100 = 12.5%
+___
+
 
 
 
